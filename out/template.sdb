@@ -1,0 +1,85 @@
+[p GLOBOPT AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"30 C:\Users\ssc002\Downloads\template\template/main.c
+[v _declarePort declarePort `(v  1 e 1 0 ]
+"40
+[v _sangDuoi sangDuoi `(v  1 e 1 0 ]
+"54
+[v _sangDan sangDan `(v  1 e 1 0 ]
+"71
+[v _sangDon sangDon `(v  1 e 1 0 ]
+"90
+[v _flashLed flashLed `(v  1 e 1 0 ]
+"111
+[v _main main `(v  1 e 1 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.32\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"291 C:\Program Files\Microchip\xc8\v2.32\pic\include\proc\pic16f887.h
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+"353
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"1479
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1541
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"1603
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"2347
+[v _WPUB WPUB `VEuc  1 e 1 @149 ]
+"3388
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3450
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"4665
+[v _nRBPU nRBPU `VEb  1 e 0 @1039 ]
+"111 C:\Users\ssc002\Downloads\template\template/main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"125
+} 0
+"40
+[v _sangDuoi sangDuoi `(v  1 e 1 0 ]
+{
+"44
+[v sangDuoi@score score `uc  1 a 1 5 ]
+"40
+[v sangDuoi@n n `ui  1 p 2 0 ]
+"52
+} 0
+"71
+[v _sangDon sangDon `(v  1 e 1 0 ]
+{
+"75
+[v sangDon@j j `uc  1 a 1 7 ]
+[v sangDon@i i `uc  1 a 1 6 ]
+[v sangDon@sum sum `uc  1 a 1 5 ]
+[v sangDon@hold hold `uc  1 a 1 4 ]
+"71
+[v sangDon@n n `ui  1 p 2 0 ]
+"88
+} 0
+"54
+[v _sangDan sangDan `(v  1 e 1 0 ]
+{
+"57
+[v sangDan@hold hold `uc  1 a 1 5 ]
+"56
+[v sangDan@index index `uc  1 a 1 4 ]
+"54
+[v sangDan@n n `ui  1 p 2 0 ]
+"69
+} 0
+"30
+[v _declarePort declarePort `(v  1 e 1 0 ]
+{
+"38
+} 0

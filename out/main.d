@@ -1,0 +1,1 @@
+ out/main.d  out/main.p1:  ./main.c
